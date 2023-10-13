@@ -1,2 +1,3 @@
 morjesta kaikki kivet ja männynkävyt!
 tehdääs uus commit testiksi
+tehdään vielä testi, miten commit toimii erillisestä terminaalista.
